@@ -5,5 +5,5 @@
 - Artificial Intelligence: Exploring innovative AI solutions and applications.
 - Machine Learning: Developing and implementing machine learning models.
 - Web Development: Crafting engaging and responsive websites.
-- Frameworks: Leveraging Dart,React for front-end development and Flutter,Spring Boot for back-end services.
+- Frameworks: Leveraging Dart,React for front-end development and python,java backend development within Flutter,Spring Boot frameworks.
   
