@@ -1,9 +1,16 @@
-- 👋About Me:
-- Hi, I’m Amandi.I am currently an undergraduate student at the University of Westminster, pursuing a BEng (Hons) Software Engineering I have a strong passion for transforming complex problems into innovative software solutions. My academic journey has been enriched by hands-on experience with programming languages such as Dart,React & Java with Flutter & Spring Framework.
-  
-- 👩‍🦰👩‍💻Interests:
-- Artificial Intelligence: Exploring innovative AI solutions and applications.
-- Machine Learning: Developing and implementing machine learning models.
-- Web Development: Crafting engaging and responsive websites.
-- Frameworks: Leveraging Dart,React for front-end development and python,java backend development within Flutter,Spring Boot frameworks.
-  
+# bot
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
