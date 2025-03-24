@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gamified Drug Addiiction Prevention App](https://detoxium.vercel.app/)
 
-- 🌱 I’m currently learning **Server-Side Web Development,Algorithms: Theory, Design and Implementation,AI & ML**
+- 🌱 I’m currently learning Artificial Interliggence with Machine Learing, Devops & Microsoft Azure**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amandi-lochana-4093a7292/](https://www.linkedin.com/in/amandi-lochana-4093a7292/)
 
