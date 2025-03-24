@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandi Lochana.</h1>
-<h3 align="center">I am currently an undergraduate student at the University of Westminster, pursuing a BEng (Hons) Software Engineering I have a strong passion for transforming complex problems into innovative software solutions. My academic journey has been enriched by hands-on experience with programming languages such as Dart,React & Java with Flutter & Spring Framework.</h3>
+<h3 align="center">I am currently an undergraduate student at the University of Westminster, pursuing a BEng (Hons) Software Engineering I have a strong passion for transforming complex problems into innovative software solutions. My academic journey has been enriched by hands-on experience with programming languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandi0502&label=Profile%20views&color=0e75b6&style=flat" alt="amandi0502" /> </p>
 
