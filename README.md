@@ -5,15 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandi0502" alt="amandi0502" /></a> </p>
 
-- 🔭 I’m currently working on [Gamified Drug Addiiction Prevention App](https://detoxium.vercel.app/)
 
 - 🌱 I’m currently learning Artificial Interligence with Machine Learing, Devops & Microsoft Azure.
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amandi-lochana-4093a7292/](https://www.linkedin.com/in/amandi-lochana-4093a7292/)
-
-- 📝 I write articles on [https://medium.com/@loraferdinaz0502](https://medium.com/@loraferdinaz0502)
-
-- 📫 How to reach me **amandi.20230355@iit.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
