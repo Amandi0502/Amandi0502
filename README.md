@@ -1,25 +1,93 @@
-<h1 align="center">Hi 👋, I'm Amandi Lochana.</h1>
-<h3 align="center">I am currently an undergraduate student at the University of Westminster, pursuing a BEng (Hons) Software Engineering I have a strong passion for transforming complex problems into innovative software solutions. My academic journey has been enriched by hands-on experience with programming languages.</h3>
+<h1 align="center">Hi 👋, I'm Amandi Lochana</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandi0502&label=Profile%20views&color=0e75b6&style=flat" alt="amandi0502" /> </p>
+<h3 align="center">
+Software Engineering Undergraduate | Workflow Automation Developer | AI & Full-Stack Enthusiast
+</h3>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=amandi0502&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="amandi0502"
+  />
+</p>
+<br>
+<img
+  align="right"
+  alt="Girl Developer Animation"
+  width="400"
+  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
+/>
+<h2>👩‍💻 About Me</h2>
+<p>
+I am a final-year <b>BEng (Hons) Software Engineering undergraduate</b>
+with a strong interest in building practical and user-focused software solutions.
+</p>
+<ul>
+  <li>💼 IBM Business Automation Workflow (BAW)</li>
+  <li>⚙️ Workflow Automation & Business Process Development</li>
+  <li>🗄️ Oracle SQL & Database Integration</li>
+  <li>🎨 Dashboard & Enterprise UI Development</li>
+  <li>🤖 Artificial Intelligence & Machine Learning</li>
+  <li>👁️ Computer Vision & Image Processing</li>
+  <li>☁️ Microsoft Azure, DevOps & Docker</li>
+</ul>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandi0502" alt="amandi0502" /></a> </p>
+<br clear="both">
 
+## 💼 What I Work With
 
-- 🌱 I’m currently learning Artificial Interligence with Machine Learing, Devops & Microsoft Azure.
+### ⚙️ Workflow & Enterprise Development
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amandi-lochana-4093a7292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amandi-lochana-4093a7292/" height="30" width="40" /></a>
-<a href="https://medium.com/@loraferdinaz0502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@loraferdinaz0502" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/IBM_BAW-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Process_Automation-161616?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow_Development-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 💻 Programming & Web Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandi0502&show_icons=true&locale=en&layout=compact" alt="amandi0502" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,php,react,nodejs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandi0502&show_icons=true&locale=en" alt="amandi0502" /></p>
+### 🗄️ Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amandi0502&" alt="amandi0502" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+</p>
 
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman" />
+</p>
+
+### 🎨 UI / Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,bootstrap" />
+</p>
+## 🚀 Areas I'm Interested In
+
+```text
+Workflow Automation
+Business Process Management
+Enterprise Software Development
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Full-Stack Development
+Database Design
+Dashboard Development
+Cloud Computing
+DevOps
+UI/UX Design
