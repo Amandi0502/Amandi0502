@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amandi Lochana</h1>
 
 <h3 align="center">
-  Software Engineering Undergraduate | Workflow Automation Developer | AI & Full-Stack Enthusiast
+  Software Engineering Undergraduate | Automation Developer | AI & Full-Stack Enthusiast
 </h3>
 
 <p align="center">
